@@ -4,7 +4,7 @@
 #
 
 app = 'google-2-0'
-primary_region = 'ams'
+primary_region = 'ord'
 
 [build]
 
