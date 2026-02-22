@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for google-2-0 on 2026-01-19T01:52:28Z
+# fly.toml app configuration file generated for naurlydude on 2026-02-22T03:15:56Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'google-2-0'
-primary_region = 'ord'
+app = 'naurlydude'
+primary_region = 'lax'
 
 [build]
 
